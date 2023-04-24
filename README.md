@@ -12,10 +12,10 @@ https://mega.nz/folder/nEByRaLZ#yxds5Xz9P7k3pbhvvCNx9w
 ![image](https://user-images.githubusercontent.com/37544871/233916623-28a8c880-f026-42bb-88a8-e7db0a426d95.png)
 
 
-<connectionStrings>
-    <add name="ContextItemTransection" connectionString="Server=DESKTOP-6615Q42\SQLEXPRESS;initial catalog=InvoiceTrans-DCC;
-         Trusted_Connection=True;Encrypt=False; User Id=sa;Password=nopwd" providerName="System.Data.SqlClient"></add>
-  </connectionStrings>
+/<connectionStrings>/
+    /<add name="ContextItemTransection" connectionString="Server=DESKTOP-6615Q42\SQLEXPRESS;initial catalog=InvoiceTrans-DCC;
+         Trusted_Connection=True;Encrypt=False; User Id=sa;Password=nopwd" providerName="System.Data.SqlClient"></add>/
+  /</connectionStrings>/
   
 web.config 
 
