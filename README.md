@@ -72,10 +72,10 @@ Views
 
 Layout HTML (1)
 
-![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8bcef5c4-6b60-4a72-86aa-bbb736c7481f)
+![Main Layout](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/051eb5dc-cb7b-48dd-91f0-bfad3efe3dc5)
 
 Layout HTML (2)
 
-![renderBody](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/0cdd416b-4187-4f68-9a67-3bb925428b68)
+![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/e82f40e5-522a-4e27-ac9e-cd159caca612)
 
 
