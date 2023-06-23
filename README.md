@@ -70,5 +70,11 @@ Views
 
 ![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8dc0ab4f-a0e8-496b-abfd-36c32c1fc903)
 
+Layout HTML (1)
 
+![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8bcef5c4-6b60-4a72-86aa-bbb736c7481f)
+
+Layout HTML (2)
+
+![renderBody](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/aeb47cd2-4729-415d-8c15-0369abce1e53)
 
