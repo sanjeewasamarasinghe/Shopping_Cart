@@ -37,9 +37,17 @@ Transaction model
 
 ![Transection](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6715b2f8-aa51-405d-9ec3-9ed973f40e94)
 
+Add Entityframe Work 6.00
+
+![Entity](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a79822d0-92d2-4cae-96b6-e3d77c1a0593)
+
 Context Model
 
 ![context](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4a5953a3-8fba-4250-b042-e20a12f56b18)
+
+NuGet Package Maneger Console
+
+![nu](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/073229b4-323d-4cb5-b57b-14c1d87101e3)
 
 Migration
 
