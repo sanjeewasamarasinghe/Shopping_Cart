@@ -22,11 +22,18 @@ web.config
 ![context](https://user-images.githubusercontent.com/37544871/233929872-e468f1e1-5076-4226-8408-abcaaee053c0.png)
 
 Customer model
-![Customer](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f4b74b75-f33f-4c5e-a48d-b6cf0021ab62)
+
+![Customer](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d19dc353-c871-452e-a4ad-21abe1ce74e5)
+
 Invoice model
-![Invoice](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c9d35421-52b9-43b8-936d-6b2784ffbe46)
+
+![Invoice](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/48ded827-6e43-4a66-935d-46d9a7baf9f3)
+
 Item model
+
 ![Item](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/e0731620-aa6b-4eb7-b167-59a41176c97e)
+
 Transection model
+
 ![Transection](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6715b2f8-aa51-405d-9ec3-9ed973f40e94)
 
