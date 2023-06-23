@@ -41,6 +41,10 @@ Context Model
 
 ![context](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4a5953a3-8fba-4250-b042-e20a12f56b18)
 
+Migration
+
+![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
+
 Database Diagram
 
 ![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
