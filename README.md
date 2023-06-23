@@ -3,7 +3,7 @@ C#-MVC-RAZOR-Shopping CART
 
 භාන්ඩ හුවමාරැ බහාලුම
 
-![Screenshot 2023-03-08 111619](https://user-images.githubusercontent.com/37544871/224627642-ebdf7125-d858-460c-8810-345622677f76.png)
+![Screenshot ](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/5a5e9296-af7e-48c9-9fc7-a08b616802ea)
 
 ආදාල   යේදවුමි ස්තානය....
 
