@@ -33,7 +33,13 @@ Item model
 
 ![Item](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/e0731620-aa6b-4eb7-b167-59a41176c97e)
 
-Transection model
+Transaction model
 
 ![Transection](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6715b2f8-aa51-405d-9ec3-9ed973f40e94)
+
+Database Diagram
+
+![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
+
+
 
