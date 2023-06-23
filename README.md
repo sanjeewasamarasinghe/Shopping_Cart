@@ -53,15 +53,22 @@ Migration
 
 ![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
 
-Controllers
-
-![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
-
-
 
 Database Diagram
 
 ![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
+
+Controllers
+
+![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
+
+Layout Main Page
+
+![layout](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c17688a9-f408-4426-8a78-e0e6050c9a27)
+
+Views
+
+![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8dc0ab4f-a0e8-496b-abfd-36c32c1fc903)
 
 
 
