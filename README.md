@@ -76,6 +76,6 @@ Layout HTML (1)
 
 Layout HTML (2)
 
-![views](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/e82f40e5-522a-4e27-ac9e-cd159caca612)
+![renderBody](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8c946f80-927f-40c5-b7dc-872a453ce366)
 
 
