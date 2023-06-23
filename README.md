@@ -79,6 +79,10 @@ Edit Layout
 
 ![Layout shar](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/864a0cc3-b6fe-4ab8-b090-c9414aa53fe1)
 
+Router path
+
+![controllerpath](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d64217b9-0f53-4e87-85a3-eb01b4b6a1d5)
+
 Controllers
 
 ![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
