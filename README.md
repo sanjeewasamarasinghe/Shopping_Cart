@@ -53,6 +53,12 @@ Migration
 
 ![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
 
+Controllers
+
+![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
+
+
+
 Database Diagram
 
 ![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
