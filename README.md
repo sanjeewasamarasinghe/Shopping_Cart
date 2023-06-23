@@ -58,9 +58,6 @@ Database Diagram
 
 ![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
 
-Controllers
-
-![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
 
 Layout Main Page
 
@@ -77,6 +74,14 @@ Layout HTML (1)
 Layout HTML (2)
 
 ![renderBody](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/2b09a907-059b-48c1-a83b-6e131c0cd58a)
+
+Edit Layout
+
+![Layout shar](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/864a0cc3-b6fe-4ab8-b090-c9414aa53fe1)
+
+Controllers
+
+![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
 
 Index- Crate (Customer controller)
 
