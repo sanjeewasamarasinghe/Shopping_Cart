@@ -87,6 +87,18 @@ Controllers
 
 ![controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d7088407-d45e-4c42-92eb-e80a0e71edaf)
 
+Add Controller
+
+![Add Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/5447eae0-1d02-43e3-ae84-77978d404af1)
+
+Add Model
+
+![Item Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/63f33622-78cb-46a0-8ea0-a61ce8c868af)
+
+Add Context Class
+
+![datacontext](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8f86d5b4-c240-4b43-956f-b448ea672ae9)
+
 Index- Crate (Customer controller)
 
 ![Index-Crate](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/45b9e39d-8ff9-4937-be2d-1f7fdf66fd4d)
