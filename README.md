@@ -37,6 +37,10 @@ Transaction model
 
 ![Transection](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6715b2f8-aa51-405d-9ec3-9ed973f40e94)
 
+Context Model
+
+![context](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4a5953a3-8fba-4250-b042-e20a12f56b18)
+
 Database Diagram
 
 ![db-diagrame](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4b4416e1-cd39-4de1-a9d9-28c234941df6)
