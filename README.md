@@ -78,5 +78,16 @@ Layout HTML (2)
 
 ![renderBody](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/2b09a907-059b-48c1-a83b-6e131c0cd58a)
 
+Index- Crate (Customer controller)
+
+![Index-Crate](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/45b9e39d-8ff9-4937-be2d-1f7fdf66fd4d)
+
+Edit (Customer controller)
+
+![Edit](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a3ce891d-cd97-4a8b-84d1-f9af21aa8c3f)
+
+Delete (Customer controller)
+
+![Delete](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/40d054a5-0612-4b33-9a7a-fb5b18ae774c)
 
 
