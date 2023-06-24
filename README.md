@@ -91,6 +91,15 @@ Add Controller
 
 ![Add Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/5447eae0-1d02-43e3-ae84-77978d404af1)
 
+Choose the Controller type 
+
+(1)
+![Action](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/07327bcb-4f6a-4869-b6a3-3916cddfa68d)
+
+(2)
+![_Add Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c15b10f1-5878-4c19-b6f1-5445144a736d)
+
+
 Add Model
 
 ![Item Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/63f33622-78cb-46a0-8ea0-a61ce8c868af)
