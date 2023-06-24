@@ -126,11 +126,21 @@ Add Views
 
 ![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
 
+Index-Create (Item controller)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d413c9f8-e456-492f-accf-b038798aeccf)
+
+Edit (Item controller)
+
+Delete (Item controller)
+
 Select Template
 
 ![template](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c6a24ab8-7814-4e90-8f90-30c651624711)
 
 Select Model
+
+
 
 ![Model class](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d255bcd2-beb9-4914-bc18-7450b06d9fe3)
 
