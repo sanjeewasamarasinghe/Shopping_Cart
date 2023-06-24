@@ -202,7 +202,8 @@ HTML For View
 
 ShoppingCart View
 
-![Shopping cart veiw](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4d2c848f-3206-4ce6-bb54-de9442773a52)
+![Shopping cart View two](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f83a7a7f-bd8f-42aa-94e9-24784644e124)
+
 
 
 
