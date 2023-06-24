@@ -122,8 +122,19 @@ Delete (Customer controller)
 
 ![Delete](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/40d054a5-0612-4b33-9a7a-fb5b18ae774c)
 
-Add View
+Add Views
 
 ![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
+
+Select Template
+
+![template](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c6a24ab8-7814-4e90-8f90-30c651624711)
+
+Select Model
+
+![Model class](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d255bcd2-beb9-4914-bc18-7450b06d9fe3)
+
+
+
 
 
