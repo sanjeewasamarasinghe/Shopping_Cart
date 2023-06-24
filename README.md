@@ -200,5 +200,10 @@ HTML For View
 
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/db7cc7da-fa46-4791-8b49-af822cea81a4)
 
+ShoppingCart View
+
+![Shopping cart veiw](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4d2c848f-3206-4ce6-bb54-de9442773a52)
+
+
 
 
