@@ -222,21 +222,42 @@ Controller For Invoice
 
 Login Controller
 
+![lOGING CONTROLLER](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/796a3eba-5829-4eb8-8543-0704c1ccb31f)
+
 Login Views
+
+![lOGING CONTROLLER_view](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/ce2f9298-c441-49d5-bd9a-e7ae68937b33)
 
 Login Views 
 
-(1)
+(1) Index
 
-(2)
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/80c6a03c-1056-4345-a3be-67b1f161b504)
 
-(3)
+(2) log in
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/e33ad07d-f89e-45b2-9d59-0debb1765608)
+
+(3) Sing in
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/98c079c0-b014-4f38-bc70-9c10ff0be4ff)
+
 
 ---------------------Layout Controller-----------------------------
 
 Layout Controller
 
+![Layout CONTROLLER_view](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a44ded90-40b4-426e-8fc1-fd5933221dcf)
+
 Layout view
+
+(1)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/838f740e-b91e-4f80-a7a2-fb149bf6df76)
+
+(2)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/3419e38c-0d33-4182-969c-6c71d619f66e)
 
 
 
