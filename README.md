@@ -93,10 +93,12 @@ Add Controller
 
 Choose the Controller type 
 
-(1)
+(1) - With Out Model
+
 ![Action](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/07327bcb-4f6a-4869-b6a3-3916cddfa68d)
 
-(2)
+(2) - With Model
+
 ![_Add Controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c15b10f1-5878-4c19-b6f1-5445144a736d)
 
 
@@ -119,5 +121,9 @@ Edit (Customer controller)
 Delete (Customer controller)
 
 ![Delete](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/40d054a5-0612-4b33-9a7a-fb5b18ae774c)
+
+Add View
+
+![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
 
 
