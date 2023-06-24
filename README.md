@@ -136,9 +136,15 @@ Delete (Item controller)
 
 Index-Create (Transaction controller)
 
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/0e070452-2018-400a-86bc-d326d379357f)
+
 Edit (Transaction controller)
 
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/8f54c5b7-e770-4592-bda2-0e92efb026a8)
+
 Delete (Transaction controller)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/0f03be10-0596-4107-9aff-fb62f57a1f1b)
 
 Index-Create (Invoice controller)
 
@@ -160,10 +166,19 @@ Select Model
 
 Customer Index View
 
+![customert view](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a08fa1c6-5cc4-4d16-a803-c8ce6b70da5f)
+
+Html Helper Folder
+
+![helper class](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/31649f31-8842-4ccb-85cc-675602b63963)
+
 HTML Helper for Create View
+
+![_use_helper](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c972e416-b058-4ed5-b686-bcb4f8581c4d)
 
 Transaction Crate View
 
+![Helper model](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a6807307-2cae-41ec-90e5-22498105456f)
 
 
 
