@@ -182,9 +182,23 @@ Transaction Crate View
 
 -------------------Shopping Cart Development-------------------------------- 
 
-Shopping cart function in Transections controller
+Shopping cart function in the Transections controller
 
 ![shopping cart controlls](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6d653934-baa0-4f91-a8a5-4a2fe259b5cf)
+
+View for sopping interface
+
+![View Shpping cart](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/34f389e5-5c0f-4a55-a489-efa50392fda1)
+
+HTML For View
+
+(1)
+
+![Html Script](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/12b5c69f-7753-4eea-bf00-c6d38519e453)
+
+(2)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/db7cc7da-fa46-4791-8b49-af822cea81a4)
 
 
 
