@@ -122,25 +122,27 @@ Delete (Customer controller)
 
 ![Delete](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/40d054a5-0612-4b33-9a7a-fb5b18ae774c)
 
-Add Views
-
-![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
-
 Index-Create (Item controller)
 
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d413c9f8-e456-492f-accf-b038798aeccf)
 
 Edit (Item controller)
 
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/549c6784-a3a4-44b1-bead-f3465e937bd2)
+
 Delete (Item controller)
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/dd4ba03d-ca33-4b07-aba1-8f17caf7f1d0)
+
+Add Views
+
+![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
 
 Select Template
 
 ![template](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/c6a24ab8-7814-4e90-8f90-30c651624711)
 
 Select Model
-
-
 
 ![Model class](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d255bcd2-beb9-4914-bc18-7450b06d9fe3)
 
