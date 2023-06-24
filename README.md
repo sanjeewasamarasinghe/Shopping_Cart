@@ -134,6 +134,18 @@ Delete (Item controller)
 
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/dd4ba03d-ca33-4b07-aba1-8f17caf7f1d0)
 
+Index-Create (Transaction controller)
+
+Edit (Transaction controller)
+
+Delete (Transaction controller)
+
+Index-Create (Invoice controller)
+
+Index-Create (Invoice controller)
+
+Index-Create (Invoice controller)
+
 Add Views
 
 ![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
@@ -145,6 +157,14 @@ Select Template
 Select Model
 
 ![Model class](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/d255bcd2-beb9-4914-bc18-7450b06d9fe3)
+
+Customer Index View
+
+HTML Helper for Create View
+
+Transaction Crate View
+
+
 
 
 
