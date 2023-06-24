@@ -146,12 +146,6 @@ Delete (Transaction controller)
 
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/0f03be10-0596-4107-9aff-fb62f57a1f1b)
 
-Index-Create (Invoice controller)
-
-Index-Create (Invoice controller)
-
-Index-Create (Invoice controller)
-
 Add Views
 
 ![Add View](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6961cf29-d7d2-4aa2-9c2b-e887a5bddaee)
@@ -224,7 +218,25 @@ Controller For Invoice
 
 ![invoice controller](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/4ab439ef-6601-48d3-9764-f02fa7fa9ff8)
 
---------------------LOging Controller -----------------------
+--------------------Login Controller -----------------------
+
+Login Controller
+
+Login Views
+
+Login Views 
+
+(1)
+
+(2)
+
+(3)
+
+---------------------Layout Controller-----------------------------
+
+Layout Controller
+
+Layout view
 
 
 
