@@ -180,8 +180,11 @@ Transaction Crate View
 
 ![Helper model](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a6807307-2cae-41ec-90e5-22498105456f)
 
-
 -------------------Shopping Cart Development-------------------------------- 
+
+Shopping cart function in Transections controller
+
+![shopping cart controlls](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6d653934-baa0-4f91-a8a5-4a2fe259b5cf)
 
 
 
