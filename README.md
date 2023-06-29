@@ -37,6 +37,10 @@ Transaction model
 
 ![Transection](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/6715b2f8-aa51-405d-9ec3-9ed973f40e94)
 
+Context Class
+
+![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/acc59d16-a74a-4eef-a20a-4240d86e0f04)
+
 Add Entityframe Work 6.00
 
 ![Entity](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/a79822d0-92d2-4cae-96b6-e3d77c1a0593)
