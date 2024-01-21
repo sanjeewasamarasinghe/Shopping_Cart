@@ -7,7 +7,7 @@ C#-MVC-RAZOR-Shopping CART
 
 ආදාල   යේදවුමි ස්තානය....
 
-https://mega.nz/folder/nEByRaLZ#yxds5Xz9P7k3pbhvvCNx9w
+https://mega.nz/folder/wnEByRaLZ#yxds5Xz9P7k3pbhvvCNx9w
 
 ![image](https://user-images.githubusercontent.com/37544871/233916623-28a8c880-f026-42bb-88a8-e7db0a426d95.png)
 
