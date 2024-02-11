@@ -53,9 +53,7 @@ NuGet Package Maneger Console
 
 ![nu](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/073229b4-323d-4cb5-b57b-14c1d87101e3)
 
-Migration
 
-![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
 
 
 Database Diagram
@@ -264,4 +262,6 @@ Layout view
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/3419e38c-0d33-4182-969c-6c71d619f66e)
 
 
+Migration
 
+![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
