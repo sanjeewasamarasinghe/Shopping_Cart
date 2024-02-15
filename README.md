@@ -261,7 +261,3 @@ Layout view
 
 ![image](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/3419e38c-0d33-4182-969c-6c71d619f66e)
 
-
-Migration
-
-![migration](https://github.com/sanjeewasamarasinghe/Shopping_Cart/assets/37544871/f2f789c0-11fb-4609-afee-b604c0d0229c)
